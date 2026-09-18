@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "f12f3937f0aec4be-1",
+  "name_hash": "f12f3937f0aec4be",
+  "sequence": 1,
+  "first_name": "Madison",
+  "last_name": "English",
+  "display_name": "Madison English",
+  "names": {},
+  "gender": "F",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white woman in her 30s, fair skin, auburn hair pulled back, hazel eyes, no glasses, confident smile, a light scarf",
+  "appearance_seed": 2501005757,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 1074520593
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 968921256,
+      "reference": "base"
+    }
+  }
+}

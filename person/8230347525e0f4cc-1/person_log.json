@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "8230347525e0f4cc-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:52:52Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 1293006660,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: white woman in her 30s, light skin, shoulder-length auburn hair, hazel eyes, no glasses, calm neutral expression, a light scarf",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:52:59Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 3101302963,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:42:01Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 3101302963,
+      "prompt": "Studio portrait of the same person, charcoal backdrop, soft key light, wearing a cream knit sweater, a colorful scarf",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

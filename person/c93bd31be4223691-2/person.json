@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "c93bd31be4223691-2",
+  "name_hash": "c93bd31be4223691",
+  "sequence": 2,
+  "first_name": "Taichi",
+  "last_name": "Sato",
+  "display_name": "太一 佐藤",
+  "names": {
+    "ja_JP": {
+      "first_name": "太一",
+      "last_name": "佐藤"
+    }
+  },
+  "gender": "M",
+  "locale": "ja_JP",
+  "look": "japanese",
+  "appearance": "Japanese man in his 50s, light skin, neatly parted dark brown hair, brown eyes, glasses, friendly grin, clean-shaven with light stubble",
+  "appearance_seed": 2438559084,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2727251870
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2032945780,
+      "reference": "base"
+    }
+  }
+}

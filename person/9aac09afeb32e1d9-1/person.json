@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "9aac09afeb32e1d9-1",
+  "name_hash": "9aac09afeb32e1d9",
+  "sequence": 1,
+  "first_name": "Benjamin",
+  "last_name": "Sullivan",
+  "display_name": "Benjamin Sullivan",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 60s, light olive skin, wavy medium-length silver hair, hazel eyes, no glasses, thoughtful look, a short beard",
+  "appearance_seed": 3146826603,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2199514703
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 1411748686,
+      "reference": "base"
+    }
+  }
+}

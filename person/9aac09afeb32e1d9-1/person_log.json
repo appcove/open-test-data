@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "9aac09afeb32e1d9-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:59:36Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 2199514703,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: white man in his 60s, light olive skin, wavy medium-length silver hair, hazel eyes, no glasses, thoughtful look, a short beard",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:59:43Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 1411748686,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:45:53Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 1411748686,
+      "prompt": "Studio portrait of the same person, soft white backdrop, soft key light, wearing a charcoal suit with a burgundy tie, a pocket square",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

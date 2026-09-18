@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "274db6b75b1bf977-1",
+  "name_hash": "274db6b75b1bf977",
+  "sequence": 1,
+  "first_name": "Rei",
+  "last_name": "Ogawa",
+  "display_name": "Rei Ogawa",
+  "names": {
+    "ja_JP": {
+      "first_name": "零",
+      "last_name": "小川"
+    }
+  },
+  "gender": "M",
+  "locale": "ja_JP",
+  "look": "east_asian",
+  "appearance": "East Asian man in his 30s, light skin, short black hair, dark brown eyes, no glasses, warm half-smile, a short beard",
+  "appearance_seed": 3965267998,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 4092450678
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3175246957,
+      "reference": "base"
+    }
+  }
+}

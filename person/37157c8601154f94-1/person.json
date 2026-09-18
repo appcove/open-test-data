@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "37157c8601154f94-1",
+  "name_hash": "37157c8601154f94",
+  "sequence": 1,
+  "first_name": "Brandon",
+  "last_name": "Smith",
+  "display_name": "Brandon Smith",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "black",
+  "appearance": "Black man in his 40s, deep brown skin, clean-shaven head, dark brown eyes, no glasses, calm neutral expression",
+  "appearance_seed": 533109315,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3019806242
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 615995778,
+      "reference": "base"
+    }
+  }
+}

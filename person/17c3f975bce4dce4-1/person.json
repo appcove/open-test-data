@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "17c3f975bce4dce4-1",
+  "name_hash": "17c3f975bce4dce4",
+  "sequence": 1,
+  "first_name": "William",
+  "last_name": "Lagarde",
+  "display_name": "William Lagarde",
+  "names": {},
+  "gender": "M",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white man in his 30s, light olive skin, close-cropped auburn hair, blue eyes, glasses, confident smile",
+  "appearance_seed": 751645746,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2820611857
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 788231303,
+      "reference": "base"
+    }
+  }
+}

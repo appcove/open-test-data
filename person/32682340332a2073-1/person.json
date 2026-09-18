@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "32682340332a2073-1",
+  "name_hash": "32682340332a2073",
+  "sequence": 1,
+  "first_name": "Mary",
+  "last_name": "Jennings",
+  "display_name": "Mary Jennings",
+  "names": {},
+  "gender": "F",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white woman in her 40s, light olive skin, long blond hair, dark brown eyes, no glasses, confident smile",
+  "appearance_seed": 2539590578,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 431803740
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 538858965,
+      "reference": "base"
+    }
+  }
+}

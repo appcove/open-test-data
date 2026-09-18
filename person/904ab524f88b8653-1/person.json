@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "904ab524f88b8653-1",
+  "name_hash": "904ab524f88b8653",
+  "sequence": 1,
+  "first_name": "Bernadette",
+  "last_name": "Marty",
+  "display_name": "Bernadette Marty",
+  "names": {},
+  "gender": "F",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white woman in her 40s, light skin, long dark brown hair, dark brown eyes, glasses, warm half-smile",
+  "appearance_seed": 4265645445,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 1308984838
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 1323274818,
+      "reference": "base"
+    }
+  }
+}

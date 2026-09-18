@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "3e17f059734bbc66-1",
+  "entries": [
+    {
+      "ts": "2026-09-17T00:03:26Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 2276519189,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: white woman in her 40s, light skin, wavy shoulder-length brown hair, hazel eyes, no glasses, calm neutral expression",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-17T00:03:35Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 496977188,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:47:55Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 496977188,
+      "prompt": "Studio portrait of the same person, dusty rose backdrop, soft key light, wearing a charcoal sheath dress with a gold necklace, a thin gold chain",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

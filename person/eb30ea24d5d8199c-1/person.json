@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "eb30ea24d5d8199c-1",
+  "name_hash": "eb30ea24d5d8199c",
+  "sequence": 1,
+  "first_name": "Stephanie",
+  "last_name": "Maillard",
+  "display_name": "Stéphanie Maillard",
+  "names": {
+    "fr_FR": {
+      "first_name": "Stéphanie",
+      "last_name": "Maillard"
+    }
+  },
+  "gender": "F",
+  "locale": "fr_FR",
+  "look": "black",
+  "appearance": "Black woman in her 50s, deep brown skin, cropped grey coils, brown eyes, glasses, confident smile, small earrings",
+  "appearance_seed": 1937711761,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 813033316
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 326205245,
+      "reference": "base"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "6f2f1b5f60f54f9e-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:56:00Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 315582044,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: Latino man in his 30s, tan skin, close-cropped black hair, brown eyes, no glasses, thoughtful look",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:56:08Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 2048832541,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:43:46Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 2048832541,
+      "prompt": "Studio portrait of the same person, dusty rose backdrop, soft key light, wearing a chambray shirt",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

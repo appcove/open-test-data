@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "8ea0a83e972db8b0-1",
+  "name_hash": "8ea0a83e972db8b0",
+  "sequence": 1,
+  "first_name": "Rene",
+  "last_name": "Chevallier",
+  "display_name": "René Chevallier",
+  "names": {
+    "fr_FR": {
+      "first_name": "René",
+      "last_name": "Chevallier"
+    }
+  },
+  "gender": "M",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white man in his 50s, fair skin, wavy medium-length blond hair, brown eyes, glasses, calm neutral expression, a trimmed goatee",
+  "appearance_seed": 4183582809,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3905731210
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2193514853,
+      "reference": "base"
+    }
+  }
+}

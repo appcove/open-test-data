@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "66f6bd5b35da59d1-1",
+  "name_hash": "66f6bd5b35da59d1",
+  "sequence": 1,
+  "first_name": "Joseph",
+  "last_name": "Summers",
+  "display_name": "Joseph Summers",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 60s, light skin, close-cropped brown hair, brown eyes, glasses, friendly grin, clean-shaven with light stubble",
+  "appearance_seed": 1269903005,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2482131859
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3075515182,
+      "reference": "base"
+    }
+  }
+}

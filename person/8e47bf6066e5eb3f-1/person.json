@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "8e47bf6066e5eb3f-1",
+  "name_hash": "8e47bf6066e5eb3f",
+  "sequence": 1,
+  "first_name": "Thomas",
+  "last_name": "Bradford",
+  "display_name": "Thomas Bradford",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 40s, fair skin, close-cropped light brown hair, blue eyes, glasses, confident smile, clean-shaven with light stubble",
+  "appearance_seed": 2093515724,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3044415968
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2803510308,
+      "reference": "base"
+    }
+  }
+}

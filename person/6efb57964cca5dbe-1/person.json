@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "6efb57964cca5dbe-1",
+  "name_hash": "6efb57964cca5dbe",
+  "sequence": 1,
+  "first_name": "Denis",
+  "last_name": "Becker",
+  "display_name": "Denis Becker",
+  "names": {},
+  "gender": "M",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white man in his 40s, light olive skin, neatly parted black hair, dark brown eyes, no glasses, thoughtful look, a trimmed goatee",
+  "appearance_seed": 3930277213,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2033344867
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 1787022935,
+      "reference": "base"
+    }
+  }
+}

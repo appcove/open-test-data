@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "43fa9f2a0d7f3df3-1",
+  "entries": [
+    {
+      "ts": "2026-09-17T00:02:59Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 2881225289,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: South Asian woman in her 50s, olive skin, short cropped grey hair, hazel eyes, no glasses, calm neutral expression",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-17T00:03:06Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 3650076917,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:47:36Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 3650076917,
+      "prompt": "Studio portrait of the same person, dusty rose backdrop, soft key light, wearing a floral summer blouse",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

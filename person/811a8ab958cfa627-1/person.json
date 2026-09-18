@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "811a8ab958cfa627-1",
+  "name_hash": "811a8ab958cfa627",
+  "sequence": 1,
+  "first_name": "Donald",
+  "last_name": "Sharp",
+  "display_name": "Donald Sharp",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 50s, light olive skin, swept-back grey hair, green eyes, no glasses, friendly grin",
+  "appearance_seed": 415994641,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 1368323449
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3775114525,
+      "reference": "base"
+    }
+  }
+}

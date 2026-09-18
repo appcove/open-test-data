@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "7e9b0f0208aeb4fb-1",
+  "name_hash": "7e9b0f0208aeb4fb",
+  "sequence": 1,
+  "first_name": "Yuki",
+  "last_name": "Sato",
+  "display_name": "Yuki Sato",
+  "names": {
+    "ja_JP": {
+      "first_name": "裕樹",
+      "last_name": "佐藤"
+    }
+  },
+  "gender": "M",
+  "locale": "ja_JP",
+  "look": "japanese",
+  "appearance": "Japanese man in his 60s, light skin, short black hair, brown eyes, no glasses, calm neutral expression",
+  "appearance_seed": 2562699589,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3173821776
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2704608951,
+      "reference": "base"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "62c778101cd152d0-1",
+  "name_hash": "62c778101cd152d0",
+  "sequence": 1,
+  "first_name": "William",
+  "last_name": "Howard",
+  "display_name": "William Howard",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 40s, light skin, neatly parted brown hair, green eyes, no glasses, warm half-smile",
+  "appearance_seed": 304524542,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 65984873
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 1018637670,
+      "reference": "base"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "f6c842a1bb46a272-1",
+  "name_hash": "f6c842a1bb46a272",
+  "sequence": 1,
+  "first_name": "Gilbert",
+  "last_name": "Dupuis",
+  "display_name": "Gilbert Dupuis",
+  "names": {},
+  "gender": "M",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white man in his 40s, fair skin, short silver hair, brown eyes, no glasses, confident smile",
+  "appearance_seed": 651566032,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 398637630
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3866058425,
+      "reference": "base"
+    }
+  }
+}

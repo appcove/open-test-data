@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "16ff9582693e8190-1",
+  "name_hash": "16ff9582693e8190",
+  "sequence": 1,
+  "first_name": "Rei",
+  "last_name": "Nishimura",
+  "display_name": "Rei Nishimura",
+  "names": {
+    "ja_JP": {
+      "first_name": "零",
+      "last_name": "西村"
+    }
+  },
+  "gender": "M",
+  "locale": "ja_JP",
+  "look": "japanese",
+  "appearance": "Japanese man in his 60s, light skin, swept-back silver hair, brown eyes, glasses, confident smile, a short beard",
+  "appearance_seed": 3254793668,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 991641934
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 894290802,
+      "reference": "base"
+    }
+  }
+}

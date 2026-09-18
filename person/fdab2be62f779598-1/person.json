@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "fdab2be62f779598-1",
+  "name_hash": "fdab2be62f779598",
+  "sequence": 1,
+  "first_name": "Earl",
+  "last_name": "Kane",
+  "display_name": "Earl Kane",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 40s, light skin, wavy medium-length light brown hair, dark brown eyes, glasses, warm half-smile, clean-shaven with light stubble",
+  "appearance_seed": 4039768187,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3335966471
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2300436255,
+      "reference": "base"
+    }
+  }
+}

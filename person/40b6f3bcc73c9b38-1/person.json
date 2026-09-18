@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "40b6f3bcc73c9b38-1",
+  "name_hash": "40b6f3bcc73c9b38",
+  "sequence": 1,
+  "first_name": "Susanne",
+  "last_name": "Ramos",
+  "display_name": "Susanne Ramos",
+  "names": {},
+  "gender": "F",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white woman in her 50s, light skin, chin-length dark brown bob, brown eyes, no glasses, confident smile",
+  "appearance_seed": 3547464363,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 338406051
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 4142974060,
+      "reference": "base"
+    }
+  }
+}

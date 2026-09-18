@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "811a8ab958cfa627-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:56:53Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 1368323449,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: white man in his 50s, light olive skin, swept-back grey hair, green eyes, no glasses, friendly grin",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:57:00Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 3775114525,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:44:16Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 3775114525,
+      "prompt": "Studio portrait of the same person, soft white backdrop, soft key light, wearing a striped rugby shirt",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

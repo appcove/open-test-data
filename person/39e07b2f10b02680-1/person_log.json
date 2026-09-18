@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "39e07b2f10b02680-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:57:33Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 3720569559,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: Japanese man in his 50s, light skin, neatly parted black hair, brown eyes, no glasses, warm half-smile",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:57:41Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 3170558165,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:44:39Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 3170558165,
+      "prompt": "Studio portrait of the same person, deep green backdrop, soft key light, wearing a grey crewneck sweater over a checked shirt, a knit tie",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

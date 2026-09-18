@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "4d2b3c3b7f045a3f-1",
+  "name_hash": "4d2b3c3b7f045a3f",
+  "sequence": 1,
+  "first_name": "Joseph",
+  "last_name": "Evans",
+  "display_name": "Joseph Evans",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 30s, light olive skin, short dark brown hair, hazel eyes, no glasses, warm half-smile, a trimmed goatee",
+  "appearance_seed": 820195758,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 1083183200
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 91042379,
+      "reference": "base"
+    }
+  }
+}

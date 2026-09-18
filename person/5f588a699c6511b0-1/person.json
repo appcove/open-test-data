@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "5f588a699c6511b0-1",
+  "name_hash": "5f588a699c6511b0",
+  "sequence": 1,
+  "first_name": "Michel",
+  "last_name": "Rossi",
+  "display_name": "Michel Rossi",
+  "names": {},
+  "gender": "M",
+  "locale": "fr_FR",
+  "look": "north_african",
+  "appearance": "North African man in his 30s, tan skin, swept-back black hair, brown eyes, no glasses, thoughtful look, a short beard",
+  "appearance_seed": 300981476,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2091356947
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 745288032,
+      "reference": "base"
+    }
+  }
+}

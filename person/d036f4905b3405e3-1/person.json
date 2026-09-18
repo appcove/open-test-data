@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "d036f4905b3405e3-1",
+  "name_hash": "d036f4905b3405e3",
+  "sequence": 1,
+  "first_name": "Daniel",
+  "last_name": "Martinez",
+  "display_name": "Daniel Martinez",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 40s, fair skin, close-cropped dark brown hair, blue eyes, no glasses, friendly grin, clean-shaven with light stubble",
+  "appearance_seed": 4225619135,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3253945839
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3203066188,
+      "reference": "base"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "b5aa445b4e8eff68-1",
+  "name_hash": "b5aa445b4e8eff68",
+  "sequence": 1,
+  "first_name": "Claire",
+  "last_name": "Benard",
+  "display_name": "Claire Benard",
+  "names": {},
+  "gender": "F",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white woman in her 40s, light skin, wavy shoulder-length silver hair, brown eyes, no glasses, confident smile, a light scarf",
+  "appearance_seed": 111978049,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 819891521
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 4262493508,
+      "reference": "base"
+    }
+  }
+}

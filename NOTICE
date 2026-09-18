@@ -1,0 +1,10 @@
+open-test-data
+Copyright 2026 AppCove, Inc.
+
+This product includes synthetic test data: fabricated person records and
+AI-generated profile portraits.
+
+The portraits were generated with Google's Gemini image model
+(gemini-2.5-flash-image). All names, descriptions, and faces in this dataset
+are fabricated. They do not depict, describe, or derive from any real person,
+and any resemblance to an actual individual is coincidental.

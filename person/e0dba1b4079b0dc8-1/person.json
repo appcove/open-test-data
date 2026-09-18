@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "e0dba1b4079b0dc8-1",
+  "name_hash": "e0dba1b4079b0dc8",
+  "sequence": 1,
+  "first_name": "Douglas",
+  "last_name": "Rodriguez",
+  "display_name": "Douglas Rodriguez",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 50s, light olive skin, short auburn hair, dark brown eyes, no glasses, calm neutral expression",
+  "appearance_seed": 3034346464,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2990812268
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 1621251741,
+      "reference": "base"
+    }
+  }
+}

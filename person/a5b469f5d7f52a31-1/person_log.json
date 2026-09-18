@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "a5b469f5d7f52a31-1",
+  "entries": [
+    {
+      "ts": "2026-09-17T00:02:17Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 4260702805,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: white man in his 40s, fair skin, swept-back dark brown hair, dark brown eyes, no glasses, warm half-smile",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-17T00:02:25Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 4050451439,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:47:14Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 4050451439,
+      "prompt": "Studio portrait of the same person, soft white backdrop, soft key light, wearing a grey crewneck sweater over a checked shirt, a leather watch",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

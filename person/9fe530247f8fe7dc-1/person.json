@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "9fe530247f8fe7dc-1",
+  "name_hash": "9fe530247f8fe7dc",
+  "sequence": 1,
+  "first_name": "Hideki",
+  "last_name": "Watanabe",
+  "display_name": "Hideki Watanabe",
+  "names": {
+    "ja_JP": {
+      "first_name": "英樹",
+      "last_name": "渡辺"
+    }
+  },
+  "gender": "M",
+  "locale": "ja_JP",
+  "look": "japanese",
+  "appearance": "Japanese man in his 50s, light olive skin, buzzed black hair, brown eyes, no glasses, confident smile",
+  "appearance_seed": 3243863947,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2242870023
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 1997260854,
+      "reference": "base"
+    }
+  }
+}

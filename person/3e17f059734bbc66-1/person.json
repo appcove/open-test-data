@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "3e17f059734bbc66-1",
+  "name_hash": "3e17f059734bbc66",
+  "sequence": 1,
+  "first_name": "Oceane",
+  "last_name": "Philippe",
+  "display_name": "Océane Philippe",
+  "names": {
+    "fr_FR": {
+      "first_name": "Océane",
+      "last_name": "Philippe"
+    }
+  },
+  "gender": "F",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white woman in her 40s, light skin, wavy shoulder-length brown hair, hazel eyes, no glasses, calm neutral expression",
+  "appearance_seed": 3575074569,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2276519189
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 496977188,
+      "reference": "base"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "cc4bff5b038cff88-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:59:22Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 3684369696,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: Japanese woman in her 50s, light skin, shoulder-length straight grey hair, dark brown eyes, no glasses, warm half-smile",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:59:30Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 934935536,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:45:45Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 934935536,
+      "prompt": "Studio portrait of the same person, dusty rose backdrop, soft key light, wearing a charcoal sheath dress with a gold necklace, statement earrings",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

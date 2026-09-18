@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "c2b0f32e4c3fcb1c-1",
+  "name_hash": "c2b0f32e4c3fcb1c",
+  "sequence": 1,
+  "first_name": "Carol",
+  "last_name": "Woodard",
+  "display_name": "Carol Woodard",
+  "names": {},
+  "gender": "F",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white woman in her 40s, light skin, short cropped auburn hair, grey eyes, glasses, thoughtful look",
+  "appearance_seed": 4183622682,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 674751485
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3084801878,
+      "reference": "base"
+    }
+  }
+}

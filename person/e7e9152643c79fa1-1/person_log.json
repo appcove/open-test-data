@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "e7e9152643c79fa1-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:52:26Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 858281606,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: white woman in her 40s, light olive skin, long grey hair, dark brown eyes, no glasses, thoughtful look",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:52:33Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 1927084071,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:41:46Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 1927084071,
+      "prompt": "Studio portrait of the same person, deep green backdrop, soft key light, wearing a mustard yellow blouse, small hoop earrings",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

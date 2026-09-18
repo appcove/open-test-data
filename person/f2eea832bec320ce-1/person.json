@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "f2eea832bec320ce-1",
+  "name_hash": "f2eea832bec320ce",
+  "sequence": 1,
+  "first_name": "Douglas",
+  "last_name": "Crawford",
+  "display_name": "Douglas Crawford",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "black",
+  "appearance": "Black man in his 50s, dark skin, high fade with dark brown hair, brown eyes, no glasses, confident smile, clean-shaven with light stubble",
+  "appearance_seed": 3103859758,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2526115721
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 828758858,
+      "reference": "base"
+    }
+  }
+}

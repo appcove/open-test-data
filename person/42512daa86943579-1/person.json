@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "42512daa86943579-1",
+  "name_hash": "42512daa86943579",
+  "sequence": 1,
+  "first_name": "Brad",
+  "last_name": "Williams",
+  "display_name": "Brad Williams",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 40s, fair skin, close-cropped auburn hair, green eyes, glasses, calm neutral expression",
+  "appearance_seed": 2082199126,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 688428111
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2987050122,
+      "reference": "base"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "8230347525e0f4cc-1",
+  "name_hash": "8230347525e0f4cc",
+  "sequence": 1,
+  "first_name": "Amy",
+  "last_name": "Wallace",
+  "display_name": "Amy Wallace",
+  "names": {},
+  "gender": "F",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white woman in her 30s, light skin, shoulder-length auburn hair, hazel eyes, no glasses, calm neutral expression, a light scarf",
+  "appearance_seed": 1145123699,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 1293006660
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3101302963,
+      "reference": "base"
+    }
+  }
+}

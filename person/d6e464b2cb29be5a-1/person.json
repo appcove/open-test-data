@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "d6e464b2cb29be5a-1",
+  "name_hash": "d6e464b2cb29be5a",
+  "sequence": 1,
+  "first_name": "Todd",
+  "last_name": "Olsen",
+  "display_name": "Todd Olsen",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 50s, light olive skin, swept-back brown hair, brown eyes, no glasses, calm neutral expression, a trimmed goatee",
+  "appearance_seed": 638106938,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2385742826
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2000739611,
+      "reference": "base"
+    }
+  }
+}

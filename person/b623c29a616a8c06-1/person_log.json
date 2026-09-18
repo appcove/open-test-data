@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "b623c29a616a8c06-1",
+  "entries": [
+    {
+      "ts": "2026-09-17T00:04:20Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 358322164,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: Japanese woman in her 30s, light olive skin, black hair pulled back, dark brown eyes, no glasses, warm half-smile, a light scarf",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-17T00:04:27Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 3761324651,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:48:24Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 3761324651,
+      "prompt": "Studio portrait of the same person, warm beige backdrop, soft key light, wearing a light blue button-down shirt",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

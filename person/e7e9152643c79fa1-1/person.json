@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "e7e9152643c79fa1-1",
+  "name_hash": "e7e9152643c79fa1",
+  "sequence": 1,
+  "first_name": "Jessica",
+  "last_name": "Smith",
+  "display_name": "Jessica Smith",
+  "names": {},
+  "gender": "F",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white woman in her 40s, light olive skin, long grey hair, dark brown eyes, no glasses, thoughtful look",
+  "appearance_seed": 2176702412,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 858281606
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 1927084071,
+      "reference": "base"
+    }
+  }
+}

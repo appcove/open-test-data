@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "00f3f6c55434db3e-1",
+  "name_hash": "00f3f6c55434db3e",
+  "sequence": 1,
+  "first_name": "Andre",
+  "last_name": "Vaillant",
+  "display_name": "André Vaillant",
+  "names": {
+    "fr_FR": {
+      "first_name": "André",
+      "last_name": "Vaillant"
+    }
+  },
+  "gender": "M",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white man in his 50s, light skin, buzzed silver hair, grey eyes, no glasses, friendly grin, a trimmed goatee",
+  "appearance_seed": 2528958472,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3019527744
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 312866366,
+      "reference": "base"
+    }
+  }
+}

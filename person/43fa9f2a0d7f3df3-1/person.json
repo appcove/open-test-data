@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "43fa9f2a0d7f3df3-1",
+  "name_hash": "43fa9f2a0d7f3df3",
+  "sequence": 1,
+  "first_name": "Rachita",
+  "last_name": "Soni",
+  "display_name": "Rachita Soni",
+  "names": {},
+  "gender": "F",
+  "locale": "en_IN",
+  "look": "south_asian",
+  "appearance": "South Asian woman in her 50s, olive skin, short cropped grey hair, hazel eyes, no glasses, calm neutral expression",
+  "appearance_seed": 1815572747,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2881225289
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3650076917,
+      "reference": "base"
+    }
+  }
+}

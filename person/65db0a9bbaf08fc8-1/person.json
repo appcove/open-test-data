@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "65db0a9bbaf08fc8-1",
+  "name_hash": "65db0a9bbaf08fc8",
+  "sequence": 1,
+  "first_name": "Joseph",
+  "last_name": "Mahe",
+  "display_name": "Joseph Mahe",
+  "names": {},
+  "gender": "M",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white man in his 30s, fair skin, swept-back silver hair, dark brown eyes, no glasses, warm half-smile, clean-shaven with light stubble",
+  "appearance_seed": 1589721420,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 4109306172
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 893930999,
+      "reference": "base"
+    }
+  }
+}

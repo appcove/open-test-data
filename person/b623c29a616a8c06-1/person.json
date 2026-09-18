@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "b623c29a616a8c06-1",
+  "name_hash": "b623c29a616a8c06",
+  "sequence": 1,
+  "first_name": "Sayuri",
+  "last_name": "Nakagawa",
+  "display_name": "さゆり 中川",
+  "names": {
+    "ja_JP": {
+      "first_name": "さゆり",
+      "last_name": "中川"
+    }
+  },
+  "gender": "F",
+  "locale": "ja_JP",
+  "look": "japanese",
+  "appearance": "Japanese woman in her 30s, light olive skin, black hair pulled back, dark brown eyes, no glasses, warm half-smile, a light scarf",
+  "appearance_seed": 2662047181,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 358322164
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3761324651,
+      "reference": "base"
+    }
+  }
+}

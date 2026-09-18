@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "d64a5b4005af1dbc-1",
+  "entries": [
+    {
+      "ts": "2026-09-17T00:01:48Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 726086095,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: white woman in her 40s, light skin, short cropped black hair, green eyes, no glasses, warm half-smile",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-17T00:01:56Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 2724018324,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:46:59Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 2724018324,
+      "prompt": "Studio portrait of the same person, charcoal backdrop, soft key light, wearing a patterned wrap dress",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

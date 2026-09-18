@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "b6aef07f2470d239-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:57:06Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 3852747913,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: North African woman in her 40s, tan skin, long curly brown hair, dark brown eyes, no glasses, calm neutral expression",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:57:14Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 3823549178,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:44:24Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 3823549178,
+      "prompt": "Studio portrait of the same person, deep green backdrop, soft key light, wearing a cream knit sweater",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

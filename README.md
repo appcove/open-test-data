@@ -163,5 +163,25 @@ for entry in manifest["entries"]:
 
 ## License
 
-To be determined. Add a LICENSE file before relying on this data outside the
-organization.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the
+full text and [NOTICE](NOTICE) for the attribution notice.
+
+```
+Copyright 2026 AppCove, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+This covers the whole repository, the JSON records and the images alike. If you
+redistribute any part of it, including a single portrait, include a copy of the
+license and retain the notice.

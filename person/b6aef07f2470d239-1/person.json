@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "b6aef07f2470d239-1",
+  "name_hash": "b6aef07f2470d239",
+  "sequence": 1,
+  "first_name": "Camille",
+  "last_name": "Sanchez",
+  "display_name": "Camille Sanchez",
+  "names": {},
+  "gender": "F",
+  "locale": "fr_FR",
+  "look": "north_african",
+  "appearance": "North African woman in her 40s, tan skin, long curly brown hair, dark brown eyes, no glasses, calm neutral expression",
+  "appearance_seed": 3757923878,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3852747913
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3823549178,
+      "reference": "base"
+    }
+  }
+}

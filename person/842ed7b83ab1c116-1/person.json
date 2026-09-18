@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "842ed7b83ab1c116-1",
+  "name_hash": "842ed7b83ab1c116",
+  "sequence": 1,
+  "first_name": "Tao",
+  "last_name": "Cui",
+  "display_name": "Tao Cui",
+  "names": {},
+  "gender": "M",
+  "locale": "zh_CN",
+  "look": "east_asian",
+  "appearance": "East Asian man in his 50s, light skin, neatly parted silver hair, dark brown eyes, no glasses, calm neutral expression, a trimmed goatee",
+  "appearance_seed": 1115238326,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2454840645
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3520407906,
+      "reference": "base"
+    }
+  }
+}

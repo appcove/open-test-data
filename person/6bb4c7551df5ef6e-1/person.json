@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "6bb4c7551df5ef6e-1",
+  "name_hash": "6bb4c7551df5ef6e",
+  "sequence": 1,
+  "first_name": "Monique",
+  "last_name": "Marie",
+  "display_name": "Monique Marie",
+  "names": {},
+  "gender": "F",
+  "locale": "fr_FR",
+  "look": "white",
+  "appearance": "white woman in her 50s, light olive skin, chin-length blond bob, hazel eyes, no glasses, friendly grin",
+  "appearance_seed": 1792919467,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 2684112407
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2923272831,
+      "reference": "base"
+    }
+  }
+}

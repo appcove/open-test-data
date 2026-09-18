@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "03c2420499a3ad27-1",
+  "name_hash": "03c2420499a3ad27",
+  "sequence": 1,
+  "first_name": "Christopher",
+  "last_name": "Tyler",
+  "display_name": "Christopher Tyler",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 50s, light skin, short auburn hair, green eyes, glasses, confident smile, a short beard",
+  "appearance_seed": 624956296,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3685139249
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 2429737439,
+      "reference": "base"
+    }
+  }
+}

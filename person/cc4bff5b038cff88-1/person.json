@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "cc4bff5b038cff88-1",
+  "name_hash": "cc4bff5b038cff88",
+  "sequence": 1,
+  "first_name": "Nanami",
+  "last_name": "Nakamura",
+  "display_name": "Nanami Nakamura",
+  "names": {
+    "ja_JP": {
+      "first_name": "七夏",
+      "last_name": "中村"
+    }
+  },
+  "gender": "F",
+  "locale": "ja_JP",
+  "look": "japanese",
+  "appearance": "Japanese woman in her 50s, light skin, shoulder-length straight grey hair, dark brown eyes, no glasses, warm half-smile",
+  "appearance_seed": 1500246970,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3684369696
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 934935536,
+      "reference": "base"
+    }
+  }
+}

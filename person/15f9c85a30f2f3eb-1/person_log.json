@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "15f9c85a30f2f3eb-1",
+  "entries": [
+    {
+      "ts": "2026-09-16T23:51:03Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 4035391846,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: Black woman in her 60s, dark skin, short natural black hair, dark brown eyes, no glasses, calm neutral expression, a light scarf",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-16T23:51:11Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 488520840,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:40:58Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 488520840,
+      "prompt": "Studio portrait of the same person, light grey backdrop, soft key light, wearing a burgundy suit jacket with no tie, a thin gold chain",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

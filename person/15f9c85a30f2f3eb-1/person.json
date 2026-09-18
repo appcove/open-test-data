@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "15f9c85a30f2f3eb-1",
+  "name_hash": "15f9c85a30f2f3eb",
+  "sequence": 1,
+  "first_name": "Dawn",
+  "last_name": "Porter",
+  "display_name": "Dawn Porter",
+  "names": {},
+  "gender": "F",
+  "locale": "en_US",
+  "look": "black",
+  "appearance": "Black woman in her 60s, dark skin, short natural black hair, dark brown eyes, no glasses, calm neutral expression, a light scarf",
+  "appearance_seed": 764677363,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 4035391846
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 488520840,
+      "reference": "base"
+    }
+  }
+}

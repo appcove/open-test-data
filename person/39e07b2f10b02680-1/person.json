@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "key": "39e07b2f10b02680-1",
+  "name_hash": "39e07b2f10b02680",
+  "sequence": 1,
+  "first_name": "Yosuke",
+  "last_name": "Nakamura",
+  "display_name": "Yosuke Nakamura",
+  "names": {
+    "ja_JP": {
+      "first_name": "洋介",
+      "last_name": "中村"
+    }
+  },
+  "gender": "M",
+  "locale": "ja_JP",
+  "look": "japanese",
+  "appearance": "Japanese man in his 50s, light skin, neatly parted black hair, brown eyes, no glasses, warm half-smile",
+  "appearance_seed": 1281514644,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 3720569559
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 3170558165,
+      "reference": "base"
+    }
+  }
+}

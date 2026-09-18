@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "key": "eb30ea24d5d8199c-1",
+  "entries": [
+    {
+      "ts": "2026-09-17T00:03:54Z",
+      "role": "base",
+      "action": "generate",
+      "image_seed": 813033316,
+      "prompt": "Neutral reference portrait, head and shoulders, facing the camera, plain light grey background, even soft lighting, natural expression: Black woman in her 50s, deep brown skin, cropped grey coils, brown eyes, glasses, confident smile, small earrings",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image"
+    },
+    {
+      "ts": "2026-09-17T00:04:01Z",
+      "role": "professional",
+      "action": "generate",
+      "image_seed": 326205245,
+      "prompt": "Studio portrait of the same person, neutral backdrop, soft key light, business attire",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    },
+    {
+      "ts": "2026-09-17T12:48:10Z",
+      "role": "professional",
+      "action": "regenerate",
+      "image_seed": 326205245,
+      "prompt": "Studio portrait of the same person, warm beige backdrop, soft key light, wearing a deep green blazer over a cream top",
+      "model": "gemini-2.5-flash-image",
+      "model_version": "gemini-2.5-flash-image",
+      "reference": "base"
+    }
+  ]
+}

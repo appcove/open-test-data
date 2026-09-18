@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "key": "a5b469f5d7f52a31-1",
+  "name_hash": "a5b469f5d7f52a31",
+  "sequence": 1,
+  "first_name": "Jeffrey",
+  "last_name": "Curtis",
+  "display_name": "Jeffrey Curtis",
+  "names": {},
+  "gender": "M",
+  "locale": "en_US",
+  "look": "white",
+  "appearance": "white man in his 40s, fair skin, swept-back dark brown hair, dark brown eyes, no glasses, warm half-smile",
+  "appearance_seed": 2245206512,
+  "images": {
+    "base": {
+      "path": "profile/base.webp",
+      "image_seed": 4260702805
+    },
+    "professional": {
+      "path": "profile/professional.webp",
+      "image_seed": 4050451439,
+      "reference": "base"
+    }
+  }
+}
